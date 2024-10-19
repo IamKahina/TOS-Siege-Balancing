@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/TOS-Siege-Balancing/static/css/main.1c1bbd62.css",
+    "main.js": "/TOS-Siege-Balancing/static/js/main.93e8c75c.js",
+    "static/media/tosbanner.png": "/TOS-Siege-Balancing/static/media/tosbanner.58c227977ea0a8c8d2c3.png",
+    "index.html": "/TOS-Siege-Balancing/index.html",
+    "main.1c1bbd62.css.map": "/TOS-Siege-Balancing/static/css/main.1c1bbd62.css.map",
+    "main.93e8c75c.js.map": "/TOS-Siege-Balancing/static/js/main.93e8c75c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1c1bbd62.css",
+    "static/js/main.93e8c75c.js"
+  ]
+}
